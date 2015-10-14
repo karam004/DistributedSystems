@@ -1,0 +1,1 @@
+/home/karam/AndroidStudioProjects/SimpleDht/app/build/intermediates/classes/debug
